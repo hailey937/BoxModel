@@ -1,0 +1,15 @@
+#default{
+  width: 33%;
+  background: orange;
+}
+#margins{
+  width:33%;
+  background: red;
+  margin: 10px;
+}
+
+#padding{
+  width: 33%;
+  background: yellow;
+  padding: 10px;
+}
